@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Groceries</string>
+    <string name="in_stock">In Stock: </string>
+    <string name="safety_stock">Safety Stock: </string>
+    <string name="home_location">Home: </string>
+    <string name="store_location">Store: </string>
+    <string name="item_list_bar_label">All Items</string>
+    <string name="no_result">You have no items.</string>
+    <string name="add_item_dialog_title">Add New Item</string>
+    <string name="add_item_name_hint">Item Name</string>
+    <string name="add_item_safety_hint">Safety Stock</string>
+    <string name="add_item_amount_hint">Current Inventory</string>
+    <string name="add_item_home_hint">Home Location</string>
+    <string name="add_item_button">Create</string>
+    <string name="add_quantity_title">How Much?</string>
+    <string name="add_quantity_hint">Quantity</string>
+    <string name="purchase_qty_label">Quantity: </string>
+
+</resources>
